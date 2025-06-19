@@ -34,7 +34,7 @@ An open-source Android-based framework for distributed missile launch detection 
 - SQLite / PostgreSQL
 - TensorFlow Lite (optional)
 
-## but app's should be native to the adversaries countries = ?
+## but </app> should be native to the adversaries countries = ?
 
 
 ```
