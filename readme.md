@@ -1,13 +1,4 @@
 ```markdown
-
-### 📦 **Repository Title:**
-
-**missilewatch-android**
-
-> *Crowdsourced Missile Launch Detection Using Acoustic and Location Sensing on Android*
-
----
-
 ### 📝 **Repository Description:**
 
 An open-source Android-based framework for distributed missile launch detection using real-time acoustic analysis, GPS triangulation, and sensor fusion. This project enables mass-deployed smartphones to serve as passive early warning sensors for tracking missile launches in denied or high-risk regions. Includes Android app, backend API (Flask), and FFT-based audio classification engine.
@@ -16,7 +7,6 @@ An open-source Android-based framework for distributed missile launch detection 
 
 ### 📚 Suggested Sections for `README.md`:
 
-```markdown
 ## Features
 - Real-time audio capture and FFT-based launch signature detection
 - Location-tagged sensor reporting with minimal permissions
