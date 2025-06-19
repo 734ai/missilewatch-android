@@ -43,6 +43,8 @@ An open-source Android-based framework for distributed missile launch detection 
 - Python (Flask)
 - SQLite / PostgreSQL
 - TensorFlow Lite (optional)
-```
 
-//but app's should be native to the adversaries countries = ?
+## but app's should be native to the adversaries countries = ?
+
+
+```
